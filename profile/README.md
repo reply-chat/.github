@@ -2,9 +2,11 @@
 
 Reply allows for effortless communication, provided by the opensource community. <br>
 It also allows you to **self-host** your own reply server to make it your own, or to take control over your messages and more..<br><br>
-<img width="743" alt="Screenshot 2022-06-13 at 10 40 44" src="https://user-images.githubusercontent.com/56199792/173314521-fe17e7c3-e196-48d9-9444-a0906606e9ab.png">
+<img width="922" alt="Screenshot 2022-06-13 at 14 22 24" src="https://user-images.githubusercontent.com/56199792/173352533-e8d33f57-7875-43c1-a6a6-aa385e691268.png">
+
 
 <!--
+
 
 **Here are some ideas to get you started:**
 
